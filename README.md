@@ -1,0 +1,3 @@
+Download the .iso file only. Burn to USB and follow instructions. This installs Arch Linux using the Calamares installer, and it will install Cinnamon desktop environment, Firefox, GIMP, Terminator (the best terminal), and git. 
+
+Future updates will include a better looking theme with icon packs, as well as some packages off the AUR when I figure out how to make calamares interact with yay or paru lol
